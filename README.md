@@ -11,7 +11,7 @@ Motivation for collecting the dataset was an idea to automate a labeling process
 
 
 
-For collecting the data was used Oyster lidar and gps (todo name)
+For collecting the data was used Oyster lidar and gps
 ```
 Oyster lidar
 - 10 Hz
@@ -120,7 +120,7 @@ maps/
 #### Legend in visualization: 
 - Blue - road
 - Green - vegetable
-- Fialová - zebras
+- Violet - zebras
 
 
 
